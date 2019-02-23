@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "558863455508",
+    "firebase_url": "https://adarshapp-7e695.firebaseio.com",
+    "project_id": "adarshapp-7e695",
+    "storage_bucket": "adarshapp-7e695.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558863455508:android:0e17a989cc8d9747",
+        "android_client_info": {
+          "package_name": "com.adarsh.adarshtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558863455508-3g3f9hhgdq4qghcgjkaqvs6atre35urc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqHDiVcerom-V5E5wMPOvQwd7M813_TF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
